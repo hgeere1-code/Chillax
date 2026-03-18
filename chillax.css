@@ -2787,11 +2787,11 @@ html.theme-dark .container__0a12b {
 
 /* Custom server icons */
 html.theme-dark div[data-list-item-id="guildsnav___881453188509753384"] img {
-    content: url("https://raw.githubusercontent.com/Chillax-ORG/Images/refs/heads/main/blacklogo.png");
+    content: url("https://your-image-link.png");
 }
 
 html.theme-light div[data-list-item-id="guildsnav___881453188509753384"] img {
-    content: url("https://raw.githubusercontent.com/Chillax-ORG/Images/refs/heads/main/whitelogo.png");
+    content: url("https://your-image-link.png");
 }
 
 /* Custom server icons in title bar */
